@@ -24,9 +24,9 @@
   "dependencies": {
     "clear-cut": "^2",
     "emissary": "^1.1.0",
-    "event-kit": "^1.0.0",
+    "event-kit": "^2.0.0",
     "fs-plus": "^3.0.0",
-    "grim": "^1.2.1",
+    "grim": "^2.0.0",
     "keyboard-layout": "2.0.17",
     "pathwatcher": "^8.0.0",
     "property-accessors": "^1",
